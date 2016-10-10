@@ -1,1 +1,24 @@
 /*use this file to style your project however you like*/
+
+.center1 {
+    margin: auto;
+    width: 45%;
+    padding: 10px;
+    display: block;
+}
+.center2 {
+    margin: auto;
+    width: 46%;
+    padding: 10px;
+    display: block;
+}
+body {
+    background-image: url('http://planetoftheweb.com/i/8ball/empty.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 675px 675px;
+}
+body {
+    background-color: black;
+}
